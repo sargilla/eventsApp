@@ -1,4 +1,4 @@
-# Event Apss
+# Events App
 
 practica de vue 3
 
